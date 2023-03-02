@@ -9,5 +9,13 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="string_lib.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="string_lib.h">
+      <Filter>main</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
